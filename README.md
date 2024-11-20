@@ -34,6 +34,3 @@ To run this project, follow these steps:
 
 5. Point your browser to [http://localhost:4000](http://localhost:4000/) to access the attacker website
 
-
-
-Please, read [Defend Your Web Apps from Cross-Site Scripting (XSS)](https://auth0.com/blog/cross-site-scripting-xss/) to learn more about XSS attacks and how to prevent them.
